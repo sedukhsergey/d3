@@ -1,0 +1,47 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "name": "1A",
+      "subjects": [
+        "Mathematics",
+        "Computer Science",
+        "Geography",
+        "History"
+      ],
+      "students": [
+        {
+          "id": 1,
+          "name": "John",
+          "age": 16
+        },
+        {
+          "id": 2,
+          "name": "Bob",
+          "age": 16
+        }
+      ]
+    },{
+      "id": 2,
+      "name": "1B",
+      "subjects": [
+        "Mathematics",
+        "Computer Science",
+        "Geography",
+        "History"
+      ],
+      "students": [
+        {
+          "id": 1,
+          "name": "Ann",
+          "age": 16
+        },
+        {
+          "id": 2,
+          "name": "Luci",
+          "age": 16
+        }
+      ]
+    }
+  ]
+}
